@@ -23,9 +23,9 @@ Membersihkan data *traffic_ecommerce* dan menyisakan data-data yang relevan untu
 
 **Screenshoot**
 1. Hasil Pengolahan
-<img src="img/Hasil Pengolahan.png" width="1000"/>
+<img src="Hasil Pengolahan.png" width="1000"/>
 2. Validasi Hasil
-<img src="img/Validasi Hasil.png" width="1000"/>
+<img src="Validasi Hasil.png" width="1000"/>
 
 **Saran Perbaikan**
 
