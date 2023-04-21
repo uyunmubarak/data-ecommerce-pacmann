@@ -21,6 +21,12 @@ Membersihkan data *traffic_ecommerce* dan menyisakan data-data yang relevan untu
 1. Jalankan file bash bernama 'tugas' dengan melakukan perintah `./tugas.sh` pada terminal
 2. Untuk melakukan validasi hasil, gunakan word count dan jalankan perintah `cat data/data_clean.csv | grep electronics | grep smartphone| awk -F ',' '{print $5}'| sort | uniq -c | sort -nr` untuk mengetahui hasil sorting dari smartphone.
 
+**Screenshoot**
+1. Hasil Pengolahan
+<img src="img/Hasil Pengolahan.png" width="1000"/>
+2. Validasi Hasil
+<img src="img/Validasi Hasil.png" width="1000"/>
+
 **Saran Perbaikan**
 
 Setelah dilakukan eksekusi perintah, file berformat .csv menjadi banyak. Diharapkan ke depannya setelah eksekusi dijalankan, data berformat .csv tidak disimpan ke dalam file baru. Hal ini dilakukan agar memori di PC tidak menjadi penuh. 
